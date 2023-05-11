@@ -4,7 +4,7 @@
 This project is a registration form that has a login page and a success page. The function of this page is to enable users register using their names, phone numbers, email, gender, date of birth and password. The user gets to the success page the moment the information provided on the login page is corect.<br/>
 
 <h2>Hosted Page Link</h2>
-https://assignment-1.esther-annann.repl.co/
+https://estheruduma.github.io/Registration-Login-Form/
 
 <h2>Languages and Utilities Used</h2>
 
